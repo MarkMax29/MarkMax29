@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering student at **Politehnica University of Timișoara**
+🎓 4th year Computer Engineering student at **Politehnica University of Timișoara**
 
 💻 Interested in both **software and hardware development**
 
