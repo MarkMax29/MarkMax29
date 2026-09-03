@@ -197,8 +197,17 @@ A **Verilog cache controller** handling cache hits, misses and memory access coo
 
 ---
 
-# 🌱 Currently Exploring
+# 🎮 Mark's Contribution Run
 
+<div align="center">
+
+<img src="./assets/contribution-run.svg" width="100%" alt="Mark's Contribution Run"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
 <div align="center">
 
 <img src="https://img.shields.io/badge/Networking-Developing%20Knowledge-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
